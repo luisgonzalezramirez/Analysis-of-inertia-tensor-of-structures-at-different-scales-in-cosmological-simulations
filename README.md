@@ -3,7 +3,7 @@
 ## Astrophysics Department
 ###### Luis González Ramírez
 
-_________________________________________________________________________________________
+_________________________________________________
 
 Physics final degree project, Universidad Complutense de Madrid.
 
