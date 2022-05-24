@@ -23,8 +23,8 @@ The framework of the computational method that make up these codes has been desi
  all particles types) beside the conversion and parameters units.
  
  3º/ Calculations and results:
-  - Center_of_mass.py.
-  - Convergence_of_web_structures.py (sat), studies the convergence of web structures center of mass.
+  - Center_of_mass.py (sat).
+  - Convergence_of_web_structures.py, studies the convergence of web structures center of mass.
   - Inertia_tensor.py (sat), all calculations of axis, eigenvectors, tensor components, morphologic parameters and angles between axis.
   - Eigenvectors_axis_satellites_and_webs.py (sat), plots eigenvectors of each pair of web and satellite group.
 
@@ -62,8 +62,8 @@ El marco del método computacional que componen estos códigos ha sido diseñado
  todos los tipos de partículas) a lo largo de las unidades de conversión y parámetro.
  
  3º/ Cálculos y resultados:
-  - Center_of_mass.py.
-  - Convergence_of_web_structures.py (sat), estudia la convergencia del centro de masa de las estructuras web.
+  - Center_of_mass.py (sat).
+  - Convergence_of_web_structures.py, estudia la convergencia del centro de masa de las estructuras web.
   - Inertia_tensor.py (sat), todos los cálculos de eje, vectores propios, componentes del tensor, parámetros morfológicos y ángulos entre ejes.
   - Eigenvectors_axis_satellites_and_webs.py (sat), traza los vectores propios de cada par de web y grupo de satélites.
 
