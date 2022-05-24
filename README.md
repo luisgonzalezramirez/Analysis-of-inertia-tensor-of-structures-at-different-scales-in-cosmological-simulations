@@ -30,6 +30,10 @@ The framework of the computational method that make up these codes has been desi
 
 Making GIF simulations (for Parameters_reading_and_simulation_frames.py and Eigenvectors_axis_satellites_and_webs.py) are done with two codes: SimulationGIF.py and EigenvectorsGIF.py.
 
+-------------------------------------------------
+Every code still has annotations in Spanish. In further updates they will be changed.
+-------------------------------------------------
+
 _________________________________________________
 _________________________________________________
 
