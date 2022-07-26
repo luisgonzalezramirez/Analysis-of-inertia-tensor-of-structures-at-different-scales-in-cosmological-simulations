@@ -3,6 +3,11 @@
 ## Astrophysics Department
 ###### Luis González Ramírez
 
+###Link to final degree project text:
+https://drive.google.com/file/d/1IawR_XPzeCyY90DyKTVa-RyHD9Oyia6T/view?usp=drivesdk
+###E-mail:
+lgrjr27798@gmail.com
+
 _________________________________________________
 
 Physics final degree project, Universidad Complutense de Madrid.
@@ -41,6 +46,10 @@ _________________________________________________
 
 ## Departamento de Astrofísica
 ###### Luis González Ramírez
+###Enlace al texto del trabajo de fin de grado:
+https://drive.google.com/file/d/1IawR_XPzeCyY90DyKTVa-RyHD9Oyia6T/view?usp=drivesdk
+###E-mail:
+lgrjr27798@gmail.com
 
 _________________________________________________
 
